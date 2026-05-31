@@ -36,7 +36,7 @@ This design includes:
 The following flowchart illustrates the UART TX and RX FSM operation along with UART frame format.
 
 <p align="center">
-  <img width="1024" height="1536" alt="uart" src="https://github.com/user-attachments/assets/80b3f930-45c0-4e38-987c-1d1804036c31" />
+  <img width="500" height="750" alt="uart" src="https://github.com/user-attachments/assets/80b3f930-45c0-4e38-987c-1d1804036c31" />
 
 </p>
 
